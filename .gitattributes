@@ -1,0 +1,9 @@
+*.a linguist-vendored
+*.csv linguist-vendored
+*.dat linguist-vendored
+*.data linguist-vendored
+*.mat linguist-vendored
+*.names linguist-vendored
+*.t linguist-vendored
+*.trn linguist-vendored
+*.tst linguist-vendored
